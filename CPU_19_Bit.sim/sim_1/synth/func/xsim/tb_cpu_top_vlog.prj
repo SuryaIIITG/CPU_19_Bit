@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"tb_cpu_top_func_synth.v" \
+"../../../../../CPU_19_Bit.srcs/sim_1/new/cpu_top_tb.v" \
+
+# Do not sort compile order
+nosort

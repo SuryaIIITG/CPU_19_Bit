@@ -1,0 +1,18 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../CPU_19_Bit.srcs/sources_1/new/alu.v" \
+"../../../../CPU_19_Bit.srcs/sources_1/new/control_unit.v" \
+"../../../../CPU_19_Bit.srcs/sources_1/new/cpu_top.v" \
+"../../../../CPU_19_Bit.srcs/sources_1/new/custom_instructions.v" \
+"../../../../CPU_19_Bit.srcs/sources_1/new/data_memory.v" \
+"../../../../CPU_19_Bit.srcs/sources_1/new/fft_2_point.v" \
+"../../../../CPU_19_Bit.srcs/sources_1/new/instruction_memory.v" \
+"../../../../CPU_19_Bit.srcs/sources_1/new/program_counter.v" \
+"../../../../CPU_19_Bit.srcs/sources_1/new/reg_file.v" \
+"../../../../CPU_19_Bit.srcs/sim_1/new/cpu_top_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

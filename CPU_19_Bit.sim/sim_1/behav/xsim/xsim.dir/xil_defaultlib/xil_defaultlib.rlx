@@ -1,0 +1,17 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/alu_tb.v,1733690050,verilog,,,,alu_tb,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/cpu_top_tb.v,1733740689,verilog,,,,tb_cpu_top,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/instruction_memory_tb.v,1733693332,verilog,,,,instruction_memory_tb,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/alu.v,1733688329,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/control_unit.v,,alu,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/control_unit.v,1733694542,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/cpu_top.v,,control_unit,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/cpu_top.v,1733742494,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/custom_instructions.v,,cpu_top,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/custom_instructions.v,1733718538,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/data_memory.v,,custom_instructions,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/data_memory.v,1733694792,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/fft_2_point.v,,data_memory,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/fft_2_point.v,1733717197,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/instruction_memory.v,,fft_2_point,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/instruction_memory.v,1733693552,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/program_counter.v,,instruction_memory,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/program_counter.v,1733695048,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/reg_file.v,,program_counter,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/reg_file.v,1733720421,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/cpu_top_tb.v,,reg_file,,,,,,,,

@@ -1,0 +1,25 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/cpu_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cpu_top
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'alu_out' is not allowed [C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/cpu_top.v:30]
+WARNING: [VRFC 10-3028] 'alu_out' was previously declared with a range [C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/cpu_top.v:30]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/custom_instructions.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module custom_instructions
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/fft_2_point.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fft_2_point
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/instruction_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/program_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module program_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/reg_file.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module reg_file
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/cpu_top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_cpu_top
+WARNING: [VRFC 10-3248] data object 'alu_out' is already declared [C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/cpu_top_tb.v:26]
+WARNING: [VRFC 10-9364] second declaration of 'alu_out' is ignored [C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/cpu_top_tb.v:26]
+WARNING: [VRFC 10-3028] 'alu_out' was previously declared with a range [C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/cpu_top_tb.v:26]

@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.sim/sim_1/synth/func/xsim/tb_cpu_top_func_synth.v,1733738251,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/cpu_top_tb.v,,alu;cpu_top;glbl;program_counter;reg_file,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/cpu_top_tb.v,1733738220,verilog,,,,tb_cpu_top,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/instruction_memory_tb.v,1733693332,verilog,,,,instruction_memory_tb,,,,,,,,
+C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sources_1/new/instruction_memory.v,1733693552,verilog,,C:/Users/surya/CPU_19_Bit/CPU_19_Bit.srcs/sim_1/new/instruction_memory_tb.v,,instruction_memory,,,,,,,,
