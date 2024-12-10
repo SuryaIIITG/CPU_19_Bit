@@ -54,7 +54,7 @@ output reg [7:0] FLAG    // FLAG for over flow of bits
     end
     6'b000100: begin   //DIV
     if (r3 != 0) begin
-    r1 = r3 / r3;
+    r1 = r2 / r3;
     FLAG[1] = (r1 == 0);
     FLAG[7] = r1[18];
     end else begin
