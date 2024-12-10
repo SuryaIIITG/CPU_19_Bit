@@ -33,10 +33,10 @@ input ST
     
     always @(posedge clk) begin
     if (LD)
-    memory[addr] <= r1;
+        memory[addr] <= data_in;
     end
     always @(posedge clk) begin
     if (ST)
-    r1 = memory[addr];
+    r1 <= memory[addr];
     end
 endmodule
