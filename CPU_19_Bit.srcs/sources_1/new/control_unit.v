@@ -22,7 +22,7 @@
 
 module control_unit(
 input clk,
-input rst,
+input reset,
 input [5:0] opcode,
 output reg mem_write,
 output reg mem_read,
