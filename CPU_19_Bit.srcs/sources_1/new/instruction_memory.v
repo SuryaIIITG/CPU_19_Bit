@@ -82,7 +82,7 @@ endcase
 end
 end
 
-always @(*) begin
+    always @(posedge clk) begin
 instruction = memory[pc]; // Fetch instruction based on the program counter
 end
 
