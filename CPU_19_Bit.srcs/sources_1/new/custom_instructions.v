@@ -70,8 +70,8 @@ output reg [18:0] data_out // Debug or test output
     2'b00: begin 
     fft_x0_real <= memory[r2][15:0];
     fft_x0_imag <= memory[r2 + 1][15:0];
-    fft_x1_real <= memory[r2 + 1][15:0];
-    fft_x1_imag <= memory[r2 + 1][15:0];
+    fft_x1_real <= memory[r2 + 2][15:0];
+    fft_x1_imag <= memory[r2 + 3][15:0];
     
     memory[r1] <= {3'b0, fft_y0_real};
     memory[r1 + 1] <= {3'b0, fft_y0_imag};
@@ -80,7 +80,7 @@ output reg [18:0] data_out // Debug or test output
     
     data_out <= memory[r1];
     end
-    2'b10: begin
+    2'b01: begin
     encrypt(r1, r2);
     data_out <= memory[r1];
     end
